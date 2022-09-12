@@ -114,8 +114,8 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  life: /categories/life || fa fa-globe
-  leetcode: /categories/leetcode || fa fa-code
+  life: /categories/Life || fa fa-globe
+  leetcode: /categories/LeetCode || fa fa-code
   about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   #  categories: /categories/ || fa fa-th
